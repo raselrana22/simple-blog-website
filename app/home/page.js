@@ -1,3 +1,8 @@
 export default function Home() {
-    return (<div>This is the home page</div>)
+    const message = "Welcome to our blog! Explore a world of insightful articles, captivating stories, and engaging content.Whether you're here to learn, be inspired, or simply enjoy some quality reading, we've got something for everyone.Feel free to browse through our collection and discover the diverse topics that await you.Happy reading!"
+    return (
+        <div>
+            <p>{message}</p>
+        </div>
+    );
 }
