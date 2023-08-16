@@ -1,4 +1,4 @@
-import blogData from "/data/blogData.json"
+import blogData from "../data/blogData.json"
 
 export default function Blog() {
 

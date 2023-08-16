@@ -1,3 +1,7 @@
 export default function Post() {
-    return (<div>This is the post page</div>)
+
+
+    return (<div>
+        <p>This is the post page </p>
+    </div>)
 }
