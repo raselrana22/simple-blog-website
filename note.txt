@@ -5,4 +5,4 @@ This is an assignment project for Module-11 of the course
 
 Submitted by Md. Rasel Rana
 
-The live link is [Simple-Blog-Website](https://simple-blog-website-green.vercel.app/)
+The live link is https://simple-blog-website-green.vercel.app/
