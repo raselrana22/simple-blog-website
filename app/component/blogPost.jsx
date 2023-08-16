@@ -13,7 +13,7 @@ export default function BlogPost({ postId }) {
 
   return (
     <div>
-      <h1>{post.title}</h1>
+      <div>{post.title}</div>
       <p>{post.content}</p>
       <p>Date: {post.date}</p>
     </div>
