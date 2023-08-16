@@ -1,34 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Simple-Blog-Website](https://simple-blog-website-green.vercel.app/) project with Next.js 13
 
-## Getting Started
+## About
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This is an assignment project for Module-11 of the course 'Mastering React.js, Next.js, and Prisma' by [Ostad](https://ostad.app/) The title of the blog website is 'Blog Website with Next.js 13.'
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about the website...
+This project was created using the latest version of Next.js (Next.js 13).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Features:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1.Three pages have been created: Home, Blog, and Post.
+2.On the Home page, a welcoming message is displayed along with a link to the Blog page.
+3.The Blog page lists blog post titles. Clicking on a title navigates to the respective Post page.
+4.The project includes a 'data' folder containing a 'blogData.json' file. This file contains an array of at 10 blog post objects. Each object has properties such as id, title, content, and date.
+5.The routing is implemented to that clicking on a blog post title on the Blog page takes you to the corresponding Post page.
+6.The Post page displays the blog post's title, content, and date.
+7.Tailwind CSS is used for styling throughout the project.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The project deploy at [Vercel Platform](https://vercel.com)
+The live link is [Simple-Blog-Website](https://simple-blog-website-green.vercel.app/)

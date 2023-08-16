@@ -1,0 +1,8 @@
+This is an assignment project for Module-11 of the course 
+'Mastering React.js, Next.js, and Prisma' by 
+[Ostad](https://ostad.app/) The title of the blog website is 
+'Blog Website with Next.js 13.'
+
+Submitted by Md. Rasel Rana
+
+The live link is [Simple-Blog-Website](https://simple-blog-website-green.vercel.app/)

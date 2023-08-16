@@ -7,7 +7,7 @@ export default async function Home() {
       <Link href={"/home"}>
         <p className='text-3xl font-bold pt-10'>
           <span class='text-pink-500'>Welcome to my</span>
-          <span class='text-rose-950'>&nbsp;Blog</span>
+          <span class='text-green-900'>&nbsp;Blog</span>
         </p>
       </Link>
     </div>
