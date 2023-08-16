@@ -2,10 +2,8 @@ import Link from "next/link";
 import blogData from "../data/blogData.json"
 
 export default function Blog() {
-
     const posts = blogData;
 
-    console.log(blogData);
     return (
         <div className='px-8 pt-3'>
             <label className='font-bold px-1'>Blog Titles: </label>

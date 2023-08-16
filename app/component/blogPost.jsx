@@ -13,9 +13,9 @@ export default function BlogPost({ postId }) {
 
   return (
     <div>
-      <div>{post.title}</div>
-      <p>{post.content}</p>
-      <p>Date: {post.date}</p>
+      <div className='text-lg font-bold pb-1'>{post.title}</div>
+      <p className='py-1'>{post.content}</p>
+      <p className='py-2'>Date: {post.date}</p>
     </div>
   );
 }
