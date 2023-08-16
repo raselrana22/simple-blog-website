@@ -1,32 +1,20 @@
 [
   {
-    "userId": 1,
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "title": "The Art of Web Development",
+    "content": "Web development is a dynamic and rapidly evolving field that empowers us to create amazing digital experiences. From crafting responsive user interfaces to building powerful back-end systems, web development offers endless possibilities. With technologies like HTML, CSS, JavaScript, and frameworks like React and Vue.js, developers can shape the online world like never before. Whether you're a seasoned pro or just starting your coding journey, web development has something for everyone. So, dive into the world of coding, explore the realms of design, and unlock your potential in the realm of web development. Let's build the future of the web together!",
+    "date": "2023-08-01"
   },
   {
-    "userId": 1,
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "Mastering JavaScript ES6",
+    "content": "ES6, also known as ECMAScript 2015, brought a plethora of features to JavaScript, revolutionizing the way we write code. Arrow functions, template literals, destructuring, and classes are just a few of the additions that make code cleaner and more expressive. With ES6, developers can write more concise and readable code, leading to improved productivity and maintainability. Whether you're writing a simple script or a complex application, mastering ES6 is essential to staying up-to-date with modern JavaScript development. So, dust off your coding skills and dive into the world of ES6, where every line of code is a brushstroke on the canvas of web innovation.",
+    "date": "2023-08-02"
   },
   {
-    "userId": 1,
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "eum et est occaecati",
-    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    "title": "The Power of CSS Grid Layout",
+    "content": "CSS Grid Layout is a game-changer in the world of web design. It provides a powerful and flexible way to create complex layouts with ease. With features like grid lines, areas, and alignment properties, CSS Grid enables developers to design responsive and visually stunning websites. Whether you're building a magazine-style layout or a responsive dashboard, CSS Grid empowers you to bring your design visions to life. By mastering CSS Grid, you'll be able to create sophisticated and engaging web layouts that adapt seamlessly to various screen sizes and devices. So, dive into the world of CSS Grid and unlock the true potential of modern web design.",
+    "date": "2023-08-03"
   }
 ]
