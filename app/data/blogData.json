@@ -16,5 +16,47 @@
     "title": "The Power of CSS Grid Layout",
     "content": "CSS Grid Layout is a game-changer in the world of web design. It provides a powerful and flexible way to create complex layouts with ease. With features like grid lines, areas, and alignment properties, CSS Grid enables developers to design responsive and visually stunning websites. Whether you're building a magazine-style layout or a responsive dashboard, CSS Grid empowers you to bring your design visions to life. By mastering CSS Grid, you'll be able to create sophisticated and engaging web layouts that adapt seamlessly to various screen sizes and devices. So, dive into the world of CSS Grid and unlock the true potential of modern web design.",
     "date": "2023-08-03"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to React.js",
+    "content": "React.js is a popular JavaScript library for building user interfaces. With its component-based architecture, React allows developers to create reusable UI components and efficiently manage state and data flow. Whether you're creating a single-page application or integrating components into existing projects, React provides a robust and flexible solution. Dive into the world of React and discover how to build interactive and responsive front-end applications that delight users.",
+    "date": "2023-08-04"
+  },
+  {
+    "id": 5,
+    "title": "Getting Started with Node.js",
+    "content": "Node.js is a powerful runtime environment that allows developers to run JavaScript on the server side. With its event-driven, non-blocking architecture, Node.js excels at building scalable and efficient network applications. From creating APIs to handling file I/O, Node.js offers a wide range of capabilities for server-side development. Explore the basics of Node.js, learn how to set up a development environment, and dive into the world of server-side JavaScript programming.",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 6,
+    "title": "Exploring Vue.js Framework",
+    "content": "Vue.js is a progressive JavaScript framework that simplifies building dynamic and interactive web applications. With its focus on simplicity and flexibility, Vue.js offers a smooth learning curve for both beginners and experienced developers. From declarative rendering to component-based architecture, Vue.js empowers developers to create sophisticated UIs with ease. Delve into the world of Vue.js and discover how to build responsive and engaging web experiences using this innovative framework.",
+    "date": "2023-08-06"
+  },
+  {
+    "id": 7,
+    "title": "Responsive Web Design Essentials",
+    "content": "Responsive web design is a fundamental concept for creating websites that adapt to different screen sizes and devices. With the increasing variety of devices used to access the internet, it's crucial to ensure that your web pages look and function well on all platforms. Learn the essentials of responsive design, including flexible grids, media queries, and fluid images. Discover how to create versatile layouts that provide an optimal user experience, whether users are on desktops, laptops, tablets, or smartphones.",
+    "date": "2023-08-07"
+  },
+  {
+    "id": 8,
+    "title": "Deep Dive into GraphQL",
+    "content": "GraphQL is a query language and runtime for APIs that empowers developers to request exactly the data they need. With its intuitive syntax and powerful features, GraphQL eliminates over-fetching and under-fetching of data. Explore how to design schemas, write queries, and work with mutations in GraphQL. Learn how GraphQL simplifies data fetching, enables efficient client-server communication, and enhances the development of modern web applications.",
+    "date": "2023-08-08"
+  },
+  {
+    "id": 9,
+    "title": "Exploring MongoDB and NoSQL Databases",
+    "content": "MongoDB is a popular NoSQL database that provides a flexible and scalable solution for handling structured and unstructured data. Unlike traditional relational databases, MongoDB stores data in JSON-like documents, making it ideal for applications that require dynamic schemas. Dive into the world of MongoDB and NoSQL databases, learn how to work with collections, documents, and queries. Discover how MongoDB's powerful features enable efficient data storage, retrieval, and manipulation.",
+    "date": "2023-08-09"
+  },
+  {
+    "id": 10,
+    "title": "Introduction to Serverless Computing",
+    "content": "Serverless computing is a revolutionary approach to building and deploying applications without the need to manage server infrastructure. With serverless platforms like AWS Lambda, Azure Functions, and Google Cloud Functions, developers can focus solely on writing code and defining functions. Explore the principles of serverless architecture, learn how to create and deploy serverless functions, and understand the benefits of scalability, cost-efficiency, and simplified maintenance. Dive into the world of serverless computing and harness the power of on-demand, event-driven application development.",
+    "date": "2023-08-10"
   }
 ]
