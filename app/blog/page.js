@@ -10,7 +10,7 @@ export default function Blog() {
             {posts.map(post => {
                 return (
                     <div key={post.id}>
-                        <div className="text-lg p-1 mx-5">
+                        <div className='text-lg p-1 mx-8 hover:scale-95'>
                             <Link href={`/post/${post.id}`}>
                                 <p>{post.id}:- {post.title}</p>
                             </Link>
